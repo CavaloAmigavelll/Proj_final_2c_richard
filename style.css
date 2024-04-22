@@ -1,0 +1,61 @@
+body {background-color: rgb(20, 20, 20);
+}
+
+.img1 {width: 50%;
+}
+
+h1 {color: #ebebeb;
+    font-family: chinese rocks;
+    src: url(chinese\ rocks\ rg.otf);
+    text-align: center;
+    font-size: 100px;
+    border-color: rgb(184, 184, 184);
+    border-style: solid;
+    border-width: 25px;
+    border-radius: 10px;
+}
+h2 {color: #a8a8a8;
+    text-align: center;
+    font-family: chinese rocks;
+    font-size: 50px;
+}
+h3 {color: #a8a8a8;
+    text-align: center;
+    font-family: chinese rocks;
+    font-size: 30px;
+}
+h4 {color: #a8a8a8;
+    text-align: center;
+    font-family: chinese rocks;
+    font-size: 100px;}
+
+.imgl2 {
+    width: 49.6%;
+    position: absolute;
+    left: 50%;
+    bottom: -8.9%;
+}
+
+.rtx {
+
+    color: rgb(255, 0, 234);
+    border-color: rgb(184, 184, 184);
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 10px;
+}
+
+.vulcao {
+
+    color: rgb(255, 115, 0);
+    border-color: rgb(184, 184, 184);
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 10px;
+}
+
+.barone {
+
+    color: aquamarine;
+}
+
